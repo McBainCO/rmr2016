@@ -30,6 +30,10 @@ h6 {
     font-size: 14px;
 }
 
+.h1-speaker {
+  padding-bottom: 3%;
+}
+
 .lead {
     font-size: 18px;
     font-weight: 400;
